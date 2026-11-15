@@ -15,3 +15,5 @@
 应用只接受原签名、正确包名和更高版本的 APK。发布页提供 SHA256SUMS.txt；稳定更新清单为 [update.json](https://github.com/seanshigit/fullcoin-tv-updates/releases/latest/download/update.json)。无需 GitHub 登录或访问令牌。
 
 本程序基于 sing-box 1.14.4，使用 GPL-3.0-or-later 许可。每次发布附有不含私人输入的完整对应源码、构建说明和第三方许可。
+
+Android 5–6 使用系统安装会话兼容旧安装器。若直连 GitHub 下载慢，请先连接线路，再在设置中重试。
